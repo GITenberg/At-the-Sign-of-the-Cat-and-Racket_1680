@@ -1,0 +1,39 @@
+_repo: At-the-Sign-of-the-Cat-and-Racket_1680
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: At the Sign of the Cat and Racket
+url: http://www.gutenberg.org/ebooks/1680
